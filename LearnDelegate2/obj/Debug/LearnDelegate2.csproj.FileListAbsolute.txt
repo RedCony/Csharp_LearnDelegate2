@@ -1,0 +1,7 @@
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\bin\Debug\LearnDelegate2.exe.config
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\bin\Debug\LearnDelegate2.exe
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\bin\Debug\LearnDelegate2.pdb
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\obj\Debug\LearnDelegate2.csproj.AssemblyReference.cache
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\obj\Debug\LearnDelegate2.csproj.CoreCompileInputs.cache
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\obj\Debug\LearnDelegate2.exe
+D:\WorkSpace\dotnet\LearnDelegate2\LearnDelegate2\obj\Debug\LearnDelegate2.pdb
